@@ -1,0 +1,26 @@
+#job7 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#job6 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#job5 {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#job4 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#job3 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#job2 {
+  font-family:'Times New Roman', Times, serif;
+}
+#job1 {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+h2 {
+  color: #0018a0;
+}
+body {
+  background-image: url('media/background.png')
